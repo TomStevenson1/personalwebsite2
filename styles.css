@@ -1,0 +1,8 @@
+
+  .dark-mode .particles-js-canvas-el {
+    background-color: transparent;
+  }
+  .light-mode .particles-js-canvas-el {
+    background-color: transparent;
+  }
+
